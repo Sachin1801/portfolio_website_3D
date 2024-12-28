@@ -236,7 +236,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                                     WARNING: This experience is best viewed on
                                 </p>
                                 <p style={styles.warning}>
-                                    a desktop or laptop computer.
+                                    a desktop or laptop computer .
                                 </p>
                             </b>
                             <br />
