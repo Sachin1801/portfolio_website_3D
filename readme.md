@@ -1,6 +1,6 @@
-# henryheffernan.com
+# sachinadlakha3d.vercel.app/
 
-This is one of two repositories created for my portfolio website <a href="https://henryheffernan.com/"><samp>henryheffernan.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/henryjeff/portfolio-inner-site"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:henryheffernan@gmail.com">henryheffernan@gmail.com</a></samp> or you can DM me on twitter <a href="https://twitter.com/henryheffernan"><samp>@henryheffernan</samp></a>.
+This is one of two repositories created for my portfolio website <a href="https://sachinadlakha3d.vercel.app/"><samp>sachinadlakha.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/Sachin1801/portfolio_website_2D"><samp>here</samp></a> ! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:sachinadlakha1801@gmail.com">sachinadlakha1801@gmail.com</a></samp> or you can DM me on twitter <a href="https://x.com/sachinadlakha18"><samp>@sachinadlakha18</samp></a>.
 
 <br>
 
